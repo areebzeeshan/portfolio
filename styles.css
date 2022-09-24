@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  /* body{
+    background-image:  url('C:/Users/areeb/OneDrive/Desktop/WEB DEVELOPMENT/CSS - My site/cod1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+  } */
+  img{
+    position: relative;
+    left: 0px;
+    top: 0px;
+    height: 738px;
+    width: 1521px;
+  }
+  h1{
+    font-family: 'Petit Formal Script', cursive;
+  }
+  p{
+    font-family: 'Petit Formal Script', cursive;
+  }
+  .name{
+      position: relative;
+     
+      font-size: 40px;
+  }
+  .para1{
+      position: absolute;
+      left: 737px;
+      top: 83px;
+  }
+  .head1{
+    position: absolute;
+    left: 672px;
+    top: 0px;
+  }
+  .prof-img{
+    border-radius: 50%;
+    width : 200px;
+    height: 200px;
+    position: relative;
+    left: 0px;
+    top: 0px;
+  }
+  .profile{
+    text-align: center;
+  }
+ hr{
+    height: 2px;
+    margin: 10px;
+ }
+ .skills1{
+    text-align: center;
+ }
+ .Cplus{
+    height: 200px;
+    width: 200px;
+ }
+ .java{
+    height: 200px;
+    width: 200px;
+ }
+ .python{
+    height: 200px;
+    width: 200px;
+ }
+ .html-css{
+    height: 200px;
+    width: 200px;
+ }
+ .skill-img{
+    position: relative;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    left: 335px;
+ }
+ .contact{
+  position: relative;
+  text-align: center;
+  margin-bottom: 20px;
+ }
+ .lh{
+  position: relative;
+  text-align: center;
+ }
+ .lp{
+  position: relative;
+  text-align: center;
+ }
